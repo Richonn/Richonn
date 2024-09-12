@@ -8,7 +8,7 @@ You'll find in my repositories some fun projects !
 
 Most of projects in C langage are my version of Epitech's project.
 
-I also tried doing some Rust, Python, JavaScript and some HTML/CSS.
+I also tried doing some Rust, Python, and JS/TS (using some frameworks).
 
 
 #### ⚠️ If you're an Epitech Student, you can check what i've done in some of my Epitech projects, but as you migth know, cheating on my code will provide you a  -42. Sure you can check for logical purposes but nothing much 😉
