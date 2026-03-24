@@ -80,17 +80,7 @@ $ cat /etc/léandre
 
 ---
 
-## 📊 Stats
 
-<div align="center">
-
-![Richonn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richonn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richonn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
 
 <div align="center">
 
