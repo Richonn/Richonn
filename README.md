@@ -86,6 +86,6 @@ $ cat /etc/léandre
 
 *"First, solve the problem. Then, write the code." — somewhere on the internet*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/léandre-cacarié)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léandre-cacarié)
 
 </div>
