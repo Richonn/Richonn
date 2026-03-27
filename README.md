@@ -49,6 +49,7 @@ $ cat /etc/léandre
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,6 +67,8 @@ $ cat /etc/léandre
 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF4B4B?style=flat-square&logo=git&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-000000?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -73,14 +76,13 @@ $ cat /etc/léandre
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [🛡️ ShieldCI](https://github.com/Richonn/ShieldCI) | GitHub Action that auto-generates hardened CI/CD pipelines — Trivy, Gitleaks, SAST — and opens a PR | Go · GitHub Actions |
 | [🔐 KubeForge](https://github.com/Richonn/KubeForge) | Production-grade K8s homelab — GitOps, network isolation, hardened workloads | Kubernetes · ArgoCD · Docker |
 | [🎯 RTX](https://github.com/Richonn/RTX) | Ray tracer from scratch — because rasterization is for the weak | C++ |
 | [🍽️ Restalo](https://github.com/Richonn/Restalo) | Restaurant reservation backend — clean archi, full test coverage | Java · Maven · JUnit |
 | [🛴 Trotti-UL](https://github.com/Richonn/Trotti-UL) | Scooter rental backend — techniquement simple, architecturalement obsessionnel (DDD, ports & adapters, vous connaissez) | Backend |
 
 ---
-
-
 
 <div align="center">
 
