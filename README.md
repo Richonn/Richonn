@@ -80,7 +80,7 @@ $ cat /etc/léandre
 | [🔐 KubeForge](https://github.com/Richonn/KubeForge) | Production-grade K8s homelab — GitOps, network isolation, hardened workloads | Kubernetes · ArgoCD · Docker |
 | [🎯 RTX](https://github.com/Richonn/RTX) | Ray tracer from scratch — because rasterization is for the weak | C++ |
 | [🍽️ Restalo](https://github.com/Richonn/Restalo) | Restaurant reservation backend — clean archi, full test coverage | Java · Maven · JUnit |
-| [🛴 Trotti-UL](https://github.com/Richonn/Trotti-UL) | Scooter rental backend — techniquement simple, architecturalement obsessionnel (DDD, ports & adapters, vous connaissez) | Backend |
+| [🛴 Trotti-UL](https://github.com/Richonn/Trotti-UL) | Scooter rental backend — technically simple, architecturally obsessed (DDD, ports & adapters, you know the drill) | Backend |
 
 ---
 
