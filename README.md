@@ -22,7 +22,7 @@
 ```bash
 $ cat /etc/léandre
 
-> 4th year @ Epitech Lyon (5-year engineering program)
+> 4th year @ Epitech Lyon (5-year program)
 > Exchange student @ Université Laval, Québec
 > Orientation : DevSecOps / DevOps
 > Side quest : making pixels do things they didn't sign up for (C++ / ray tracing)
