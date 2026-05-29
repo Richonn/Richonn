@@ -11,7 +11,7 @@
 
 ### 🦈 Léandre Cacarié
 
-*Engineering student @ Epitech Lyon — currently freezing in Québec 🍁*
+*Engineering student @ Epitech Lyon — back in France, looking for trouble 🇫🇷*
 
 </div>
 
@@ -89,5 +89,7 @@ $ cat /etc/léandre
 *"First, solve the problem. Then, write the code." — somewhere on the internet*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léandre-cacarié)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-ShieldCI-2088FF?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/shieldci)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-SBOMForge-2088FF?style=flat-square&logo=github&logoColor=white)](https://github.com/marketplace/actions/sbomforge)
 
 </div>
