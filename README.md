@@ -77,10 +77,9 @@ $ cat /etc/léandre
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [🛡️ ShieldCI](https://github.com/Richonn/ShieldCI) | GitHub Action that auto-generates hardened CI/CD pipelines — Trivy, Gitleaks, SAST — and opens a PR | Go · GitHub Actions |
+| [📦 SBOMForge](https://github.com/Richonn/SBOMForge) | GitHub Action that generates a Software Bill of Materials for your repo — know what you ship, down to the last transitive dep | GitHub Actions · Supply chain |
+| [🔭 DriftWatch](https://github.com/Richonn/DriftWatch) | Detects drift between a live Kubernetes cluster and its GitOps repo — because "it works on the cluster" isn't a source of truth *(WIP)* | Kubernetes · GitOps |
 | [🔐 KubeForge](https://github.com/Richonn/KubeForge) | Production-grade K8s homelab — GitOps, network isolation, hardened workloads | Kubernetes · ArgoCD · Docker |
-| [🎯 RTX](https://github.com/Richonn/RTX) | Ray tracer from scratch — because rasterization is for the weak | C++ |
-| [🍽️ Restalo](https://github.com/Richonn/Restalo) | Restaurant reservation backend — clean archi, full test coverage | Java · Maven · JUnit |
-| [🛴 Trotti-UL](https://github.com/Richonn/Trotti-UL) | Scooter rental backend — technically simple, architecturally obsessed (DDD, ports & adapters, you know the drill) | Backend |
 
 ---
 
